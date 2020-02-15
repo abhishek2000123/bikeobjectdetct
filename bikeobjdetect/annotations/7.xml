@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bike images jpg</folder>
+	<filename>7.jpg</filename>
+	<path>C:\Users\Abhishek\Pictures\bike images jpg\7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8_label</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>11</ymin>
+			<xmax>260</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

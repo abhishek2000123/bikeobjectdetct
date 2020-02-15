@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bike images jpg</folder>
+	<filename>20.jpg</filename>
+	<path>C:\Users\Abhishek\Pictures\bike images jpg\20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>20_label</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>125</ymin>
+			<xmax>528</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

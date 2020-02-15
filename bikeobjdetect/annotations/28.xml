@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bike images jpg</folder>
+	<filename>28.jpg</filename>
+	<path>C:\Users\Abhishek\Pictures\bike images jpg\28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1859</width>
+		<height>1045</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>28_label</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>31</ymin>
+			<xmax>1317</xmax>
+			<ymax>1034</ymax>
+		</bndbox>
+	</object>
+</annotation>
